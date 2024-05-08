@@ -1,0 +1,19 @@
+{
+    "mylogin":[
+        {
+           "id":1,
+           "email": "bic22282@gmail.com",
+           "password": "lolpolgolzen@@" 
+        },
+        {
+            "id":2,
+            "email": "tilolpoyk@gmail.com",
+            "password": "Lolpolgolzen@@1" 
+         },
+         {
+            "id":3,
+            "email": "godmods@gmail.com",
+            "password": "lolpolgol@@3859" 
+         }
+    ]
+}
