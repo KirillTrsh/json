@@ -9,7 +9,7 @@
         "img": "palworld.jpg",      
         "title": "Собирайте удивительных существ — Палов — на просторах огромного мира, отправляйте их сражаться и трудиться на фабриках, стройте с их помощью здания и выращивайте плантации в этом абсолютно новом симуляторе выживания в открытом мире, поддерживающем совместный",
         "fonimg":"Palworld_fon.jpeg",
-          "i":"<iframe class="vidio"
+          "i":'<iframe class="vidio"
          width="78%" height="1000vh" 
         :src="require(`@/assets/game_fon/${post.video}`)" 
         title="YouTube video player" 
@@ -17,7 +17,7 @@
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
         referrerpolicy="strict-origin-when-cross-origin" 
         allowfullscreen>
-    </iframe>"
+    </iframe>'
       },
       {
         "id": 2,
